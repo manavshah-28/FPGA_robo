@@ -1,6 +1,11 @@
 # FPGA_robo
 Designed and developed a line following robot for E yantra robotics competetion
+
 ![image](https://github.com/manavshah-28/FPGA_robo/assets/82638448/1b2b08b0-a31a-452e-9dd0-f129226ab189)
+
+## Quatus Prime project overview
+
+![image](https://github.com/manavshah-28/FPGA_robo/assets/82638448/7476e9ce-57ce-4a34-93bf-3f231dec69fb)
 
 ## The Bot
 - The robot brain is made up several Verilog modules all tied up together to operate in concert.
